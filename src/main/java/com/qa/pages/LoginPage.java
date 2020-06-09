@@ -6,5 +6,10 @@ public class LoginPage {
 		
 		System.out.println("Login_Page created");
 	}
+	
+	public void lPageModification()  {
+		
+		System.out.println("Again adding more code for pushing");
+	}
 
 }
